@@ -1,0 +1,15 @@
+h1 {
+  font-style: italic;
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+  font-family: cursive;
+  font-size: 30px
+  text-align: justify;
+}
+
+p {
+  font-style: oblique;
+}
